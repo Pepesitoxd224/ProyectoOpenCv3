@@ -8,7 +8,7 @@ Nuestro proyecto consiste en tres fases: la primera, utilizando la cámara del d
 ![imagen del menu]()
 
 ## Repos utilizados:
-- Open CV para el xml '''(https://github.com/opencv/opencv)'''
+- Open CV para el xml ´´´(https://github.com/opencv/opencv)´´´
 - Digital image processing '''(https://github.com/jorgepdsML/DIGITAL-IMAGE-PROCESSING-PYTHON)'''
 - Conerting webcam video to grayscale '''(https://techtutorialsx.com/2019/04/13/python-opencv-converting-webcam-video-to-gray-scale/)'''
 
