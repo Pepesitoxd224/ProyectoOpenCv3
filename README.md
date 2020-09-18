@@ -5,7 +5,18 @@ Nuestro proyecto consiste en tres fases: la primera, utilizando la cámara del d
 
 ## Capturas de pantalla.
 
+Captura del menu en la consola al ejecutar el programa.
 ![imagen del menu](https://raw.githubusercontent.com/Pepesitoxd224/ProyectoOpenCv3/master/capturas/ssmenu.PNG)
+
+En caso de presionar "b", despliega lo siguiente.
+![imagen opcion b](https://raw.githubusercontent.com/Pepesitoxd224/ProyectoOpenCv3/master/capturas/ssSobelOpb.PNG)
+
+En caso de presionar "a", despliega lo siguiente.
+![imagen opcion a](https://raw.githubusercontent.com/Pepesitoxd224/ProyectoOpenCv3/master/capturas/ssOpA.PNG)
+
+Cuando se presiona la opcion "a", se guardan dos imagenes del rostro detectado, una a color y otra en escala de grises.
+![imagen resultados opcion a](https://raw.githubusercontent.com/Pepesitoxd224/ProyectoOpenCv3/master/capturas/my-image_gray.png)
+![imagen resultados opcion a](https://raw.githubusercontent.com/Pepesitoxd224/ProyectoOpenCv3/master/capturas/my-image_Color.png)
 
 ## Repos utilizados:
 - Open CV para el xml (https://github.com/opencv/opencv)
