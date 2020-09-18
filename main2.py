@@ -33,7 +33,9 @@ if resp == "a":
         cv2.imshow('frame', frame)
         cv2.imshow('video gray', grayFrame)
         
-        if cv2.waitKey(1) & 0xFF == ord('q'):
+        k = cv2.waitKey(1)&0xFF
+        if(k == ord('q')):
+            print('ACABO EL PROGRAMA')
             break
     cap.release()
     cv2.destroyAllWindows()
