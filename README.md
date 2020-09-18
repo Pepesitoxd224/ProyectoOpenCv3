@@ -8,5 +8,6 @@ Conerting webcam video to grayscale (https://techtutorialsx.com/2019/04/13/pytho
 
 La versión del programa que utilizamos fue Python 3.8.5.
 
+smiley.jpg
 
 
