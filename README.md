@@ -5,7 +5,7 @@ Nuestro proyecto consiste en tres fases: la primera, utilizando la cámara del d
 
 ## Capturas de pantalla.
 
-![imagen del menu]()
+![imagen del menu](https://raw.githubusercontent.com/Pepesitoxd224/ProyectoOpenCv3/master/capturas/ssmenu.PNG)
 
 ## Repos utilizados:
 - Open CV para el xml (https://github.com/opencv/opencv)
