@@ -5,7 +5,7 @@ Nuestro proyecto consiste en tres fases: la primera, utilizando la cámara del d
 
 ## Capturas de pantalla.
 
-![imagen del menu](/capturas/ssmenu.png)
+![imagen del menu](ssmenu.png)
 
 ## Repos utilizados:
 - Open CV para el xml (https://github.com/opencv/opencv)
