@@ -27,8 +27,10 @@ if resp == "a":
             cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
             roi_gray = gray[y: y + h, x: x + w] #region of interest
             roi_color = frame[y: y + h, x: x + w]
-            img_item = "my-image.png"
+            img_item = "my-image_Color.png"
+            img_item2 = "my-image_gray.png"
             cv2.imwrite(img_item, roi_gray)
+            cv2.imwrite(img_item2, roi_color)
 
         cv2.imshow('frame', frame)
         cv2.imshow('video gray', grayFrame)
